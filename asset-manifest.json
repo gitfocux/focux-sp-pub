@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://gitfocux.github.io/focux-space-program/static/css/main.ba17183d.css",
+    "main.js": "https://gitfocux.github.io/focux-space-program/static/js/main.6dc5ce58.js",
+    "static/js/27.f70293be.chunk.js": "https://gitfocux.github.io/focux-space-program/static/js/27.f70293be.chunk.js",
+    "static/media/logo.svg": "https://gitfocux.github.io/focux-space-program/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://gitfocux.github.io/focux-space-program/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba17183d.css",
+    "static/js/main.6dc5ce58.js"
+  ]
+}
